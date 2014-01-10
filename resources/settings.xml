@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="32001">
+	<setting label="32002" type="ipaddress" id="ipaddress" default="127.0.0.1"/>
+	<setting label="32003" type="text" id="password" option="hidden" default=""/>
+	<setting type="sep"/>
+    </category>
+    <category label="33001">
+	<setting id="RunonmoviePlaySwitch" type="bool" label="33002" default="false"/>
+	<setting label="33003" type="text"   id="RunonmoviePlayScriptID" default="0"/>
+	<setting type="sep"/>
+	<setting id="RunonmoviePauseSwitch" type="bool" label="33012" default="false"/>
+	<setting label="33013" type="text"   id="RunonmoviePauseScriptID" default="0"/>
+	<setting type="sep"/>
+	<setting id="RunonmovieResumeSwitch" type="bool" label="33022" default="false"/>
+	<setting label="33023" type="text"   id="RunonmovieResumeScriptID" default="0"/>
+	<setting type="sep"/>
+	<setting id="RunonmovieStopSwitch" type="bool" label="33032" default="false"/>
+	<setting label="33033" type="text"   id="RunonmovieStopScriptID" default="0"/>
+    </category>
+</settings>

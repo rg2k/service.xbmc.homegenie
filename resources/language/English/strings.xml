@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<strings>
+  
+<!-- Script Strings -->
+  
+<string id="32000">HomeGenie Settings</string>
+  
+<string id="32001">General</string>
+  
+<string id="32002">HomeGenie IP Address</string>
+
+<string id="32003">Password</string>
+
+
+<string id="33001">Scripts</string>
+
+<string id="33002">Run on Movie Play</string>
+
+<string id="33003">HomeGenie Automation PID</string>
+
+
+<string id="33012">Run on Movie Pause</string>
+
+<string id="33013">HomeGenie Automation PID</string>
+
+
+<string id="33022">Run on Movie Resume</string>
+
+<string id="33023">HomeGenie Automation PID</string>
+
+
+<string id="33032">Run on Movie Stop</string>
+
+<string id="33033">HomeGenie Automation PID</string>
+
+</strings>
