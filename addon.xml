@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.homegenie"
+<addon id="service.xbmc.homegenie"
        name="HomeGenie"
-       version="0.2"
+       version="0.3"
        provider-name="RG2k">
   <requires>
     <import addon="xbmc.python" version="2.0"/>
@@ -11,7 +11,8 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
-    <summary lang="en">Despite of what the name could suggest, HomeGenie it is not just for Home Automation. Yes, it is for sure automation for "home"... meant to be a friendly and fully customizable automation system, easy to use for everyone, but still powerful and fully featured.
-HomeGenie is your Internet of Things buddy =)</summary>
+    <summary lang="en">Runs HomeGenie automation programs to control lights, etc.</summary>
+    <description lang="en">Despite of what the name could suggest, HomeGenie it is not just for Home Automation. Yes, it is for sure automation for "home"... meant to be a friendly and fully customizable automation system, easy to use for everyone, but still powerful and fully featured.
+HomeGenie is your Internet of Things buddy =)</description>
   </extension>
 </addon>

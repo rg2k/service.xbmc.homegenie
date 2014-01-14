@@ -4,7 +4,7 @@ import urllib2
 import xbmcaddon
 import base64
 
-__settings__ = xbmcaddon.Addon("script.homegenie")
+__settings__ = xbmcaddon.Addon("service.xbmc.homegenie")
 
 password_mgr = urllib2.HTTPPasswordMgrWithDefaultRealm()
 homegenie_url = "http://" + __settings__.getSetting("ipaddress") + "/api/HomeAutomation.HomeGenie/Automation/Programs.Run/"
